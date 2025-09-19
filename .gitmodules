@@ -1,0 +1,12 @@
+[submodule "modules/ros2_controllers"]
+	path = modules/ros2_controllers
+	url = https://github.com/ros-controls/ros2_controllers
+	branch = master
+[submodule "modules/sdformat"]
+	path = modules/sdformat
+	url = https://github.com/gazebosim/sdformat
+	branch = sdf13
+[submodule "modules/robot_descriptions"]
+	path = modules/robot_descriptions
+	url = https://github.com/drfenixion/robot_descriptions.py
+	branch = main
