@@ -27,4 +27,4 @@ setup(
     include_package_data=True,
 )
 
-# install_requires should be ['xacro'].
+# install_requires should be ['##RosendoVQuinones##'].
